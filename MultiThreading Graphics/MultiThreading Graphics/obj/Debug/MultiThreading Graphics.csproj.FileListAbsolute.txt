@@ -1,0 +1,9 @@
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\bin\Debug\MultiThreading Graphics.exe.config
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\bin\Debug\MultiThreading Graphics.exe
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\bin\Debug\MultiThreading Graphics.pdb
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\obj\Debug\MultiThreading Graphics.csprojResolveAssemblyReference.cache
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\obj\Debug\MultiThreading_Graphics.Form1.resources
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\obj\Debug\MultiThreading_Graphics.Properties.Resources.resources
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\obj\Debug\MultiThreading Graphics.csproj.GenerateResource.Cache
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\obj\Debug\MultiThreading Graphics.exe
+D:\Projects\MultiThreading Graphics\MultiThreading Graphics\obj\Debug\MultiThreading Graphics.pdb
